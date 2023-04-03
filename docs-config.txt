@@ -1,0 +1,9 @@
+# Files to be included
+src/components/api-description.md
+src/api/how-to-enable-api.md
+src/kubernetes.md
+src/azure-functions.md
+
+# Renaming paths
+src/components/api-description.md==>src/api/api-description.md
+src/==>service-1/
